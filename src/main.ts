@@ -1,7 +1,7 @@
 /// <reference types="@workadventure/iframe-api-typings/iframe_api" />
 
 WA.chat.sendChatMessage('Hello world', 'Mr Robot');
-/*
+
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
 console.log('Script started successfully');
@@ -269,4 +269,4 @@ function closePopup(){
         currentPopup.close();
         currentPopup = undefined;
     }
-}*/
+}
